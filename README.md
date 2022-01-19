@@ -1,6 +1,6 @@
 # foodie
 
-[![](https://github.com/kevbuh/foodie/blob/main/v0.0.1_logo.png)](https://kevinbuhler.com/)
+[![](https://github.com/kevbuh/foodie/blob/main/v0.0.2_logo.png)](https://kevinbuhler.com/)
 <br />
 
 <img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/foodie/blob/main/react-native-logo.png" />
@@ -15,7 +15,7 @@ Foodie is a mobile app that delivers your favorite stadium food right to your se
 
 # Features
 
-- minimalistic design with no ads
+- highly intuitive with beautiful design
 - focus on the game, have the food served to you
 - add your favorite teams
 - know the status of your food
