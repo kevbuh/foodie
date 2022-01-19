@@ -44,7 +44,7 @@ If you encounter a bug or have a feature request, [send me a message on Twitter]
 
 # Code of Conduct
 
-Before contributing to this repository, please read the [code of conduct.](https://github.com/Miodec/monkeytype/blob/master/CODE_OF_CONDUCT.md)
+Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/foodie/blob/main/CODE_OF_CONDUCT.md)
 
 # Support
 
