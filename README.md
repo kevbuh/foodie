@@ -1,31 +1,17 @@
 # foodie
 
-### Tech Stack
-
-Frontend
-
-- React Native
-
-Backend
-
-- Django
-- Postgres
-
-Analytics
-
-- Mixpanel
-
-[![](https://github.com/kevbuh/foodie/blob/main/init_logo.png)](https://kevinbuhler.com/)
+[![](https://github.com/kevbuh/foodie/blob/main/v0.0.1_logo.png)](https://kevinbuhler.com/)
 <br />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/foodie/blob/main/react-native-logo.png" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/foodie/blob/main/redux-logo.png" />
+<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/foodie/blob/main/django-logo.png" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/foodie/blob/main/postgres-logo.png" />
 <br />
 
 # About
 
-Foodie is an app to deliver stadium food right to your seat. It features many on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
+Foodie is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
 
 # Features
 
@@ -35,6 +21,22 @@ Foodie is an app to deliver stadium food right to your seat. It features many on
 - know the status of your food
 - account system
 - and much more
+
+# Tech Stack
+
+Frontend
+
+- React Native
+- Redux
+
+Backend
+
+- Django
+- Postgres
+
+Analytics
+
+- Mixpanel
 
 # Bug report or Feature request
 
