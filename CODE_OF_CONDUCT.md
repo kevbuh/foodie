@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting Foodie at [buhlerkw@gmail.com](mailto:buhlerkw@gmail.com). All
+reported by contacting Snackee at [buhlerkw@gmail.com](mailto:buhlerkw@gmail.com). All
 complaints will be reviewed and investigated, resulting in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality concerning the reporter of an incident.

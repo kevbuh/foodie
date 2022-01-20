@@ -1,4 +1,4 @@
-# foodie
+# snackee
 
 [![](https://github.com/kevbuh/foodie/blob/main/v0.0.2_logo.png)](https://kevinbuhler.com/)
 <br />
@@ -11,11 +11,11 @@
 
 # About
 
-Foodie is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
+Snackee is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
 
 # Operations
 
-Foodie will have a similar business strategy to that of DoorDash. People can log on to the app or website and have their food delivered to them for a small fee. DoorDash has a fee of about $5-$10 dollars to deliver it. I would think that we could deliver it for a $0.5 to $3 fee.
+Snackee will have a similar business strategy to that of DoorDash. People can log on to the app or website and have their food delivered to them for a small fee. DoorDash has a fee of about $5-$10 dollars to deliver it. I would think that we could deliver it for a $0.5 to $3 fee.
 
 How it would work:
 
@@ -54,6 +54,9 @@ Obstacles to climb:
 1. Get permission from the arena and the concessions stands.
 2. How to pay the runners?
 3. What happens if there is no wifi or cellular data?
+
+Road Map:
+CU Arena -> Ball Arena -> All arenas in CO -> All in the US -> All in the world
 
 # Features
 
