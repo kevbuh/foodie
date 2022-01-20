@@ -1,21 +1,21 @@
-# snackee
+# snacki
 
-[![](https://github.com/kevbuh/snackee/blob/main/v0.0.2_logo.png)](https://kevinbuhler.com/)
+[![](https://github.com/kevbuh/snacki/blob/main/v0.0.4_logo.png)](https://kevinbuhler.com/)
 <br />
 
-<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/snackee/blob/main/react-native-logo-2.png" />
-<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/snackee/blob/main/redux-logo.png" />
-<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/snackee/blob/main/django-logo.png" />
-<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/snackee/blob/main/postgres-logo.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/snacki/blob/main/react-native-logo-2.jpeg" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/snacki/blob/main/redux-logo.png" />
+<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/snacki/blob/main/django-logo.png" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/snacki/blob/main/postgres-logo.png" />
 <br />
 
 # About
 
-Snackee is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
+Snacki is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
 
 # Operations
 
-Snackee will have a similar business strategy to that of DoorDash. People can log on to the app or website and have their food delivered to them for a small fee. DoorDash has a fee of about $5-$10 dollars to deliver it. I would think that we could deliver it for a $0.5 to $3 fee.
+Snacki will have a similar business strategy to that of DoorDash. People can log on to the app or website and have their food delivered to them for a small fee. DoorDash has a fee of about $5-$10 dollars to deliver it. I would think that we could deliver it for a $0.5 to $3 fee.
 
 How it would work:
 
@@ -44,7 +44,7 @@ Runner Information:
 
 - Bright pink polo shirt
 - Khaki or black pants
-- Will have the Snackee Runner app with order information
+- Will have the Snacki Runner app with order information
 - Wear mask and shield like waiters do in Mexico City
 - Will have a tray or bag to deliver the food
 - Show the runner app to the concessions to verify orders
@@ -86,13 +86,21 @@ Analytics:
 
 - MixPanel
 
+Design:
+
+- Figma
+
+Communication:
+
+- Slack
+
 # Bug report or Feature request
 
 If you encounter a bug or have a feature request, [send me a message on Twitter](https://twitter.com/kevinbuhler_), [create an issue](https://twitter.com/kevinbuhler_), [create a discussion thread](https://twitter.com/kevinbuhler_), or [join the Discord server](https://twitter.com/kevinbuhler_).
 
 # Code of Conduct
 
-Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/snackee/blob/main/CODE_OF_CONDUCT.md)
+Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/snacki/blob/main/CODE_OF_CONDUCT.md)
 
 # Support
 
