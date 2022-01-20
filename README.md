@@ -1,12 +1,12 @@
 # snackee
 
-[![](https://github.com/kevbuh/foodie/blob/main/v0.0.2_logo.png)](https://kevinbuhler.com/)
+[![](https://github.com/kevbuh/snackee/blob/main/v0.0.2_logo.png)](https://kevinbuhler.com/)
 <br />
 
-<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/foodie/blob/main/react-native-logo.png" />
-<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/foodie/blob/main/redux-logo.png" />
-<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/foodie/blob/main/django-logo.png" />
-<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/foodie/blob/main/postgres-logo.png" />
+<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/snackee/blob/main/react-native-logo-2.png" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/snackee/blob/main/redux-logo.png" />
+<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/snackee/blob/main/django-logo.png" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/snackee/blob/main/postgres-logo.png" />
 <br />
 
 # About
@@ -44,7 +44,7 @@ Runner Information:
 
 - Bright pink polo shirt
 - Khaki or black pants
-- Will have the Foodie Runner app with order information
+- Will have the Snackee Runner app with order information
 - Wear mask and shield like waiters do in Mexico City
 - Will have a tray or bag to deliver the food
 - Show the runner app to the concessions to verify orders
@@ -92,7 +92,7 @@ If you encounter a bug or have a feature request, [send me a message on Twitter]
 
 # Code of Conduct
 
-Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/foodie/blob/main/CODE_OF_CONDUCT.md)
+Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/snackee/blob/main/CODE_OF_CONDUCT.md)
 
 # Support
 
