@@ -11,7 +11,11 @@
 
 # About
 
+Overview:
 Snacki is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
+
+Why?
+Mobile is now the most used platform.
 
 # Operations
 
